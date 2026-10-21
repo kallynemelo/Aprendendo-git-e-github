@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-teste / teste / teste 
-=======
 teste / teste / teste
 
-teste
->>>>>>> teste_cricao
