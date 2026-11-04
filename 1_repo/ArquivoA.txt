@@ -2,3 +2,7 @@ Adicionando uma informação a mais.
 teste
 adicionando mais informações.
 mais uma info.
+
+Diff
+de
+arquivo
